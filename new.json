@@ -1,0 +1,9 @@
+{
+  "surname": "Тестова",
+  "name": "Тест",
+  "patronymic": "Тестовна",
+  "age": 33,
+  "pets": 2,
+  "expected_salary": 500000
+}
+
